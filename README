@@ -1,0 +1,11 @@
+##
+    +, vitokenizer
+    +, work2vec
+    +, kmean and hierarchical clustering
+
+# How to run
+
+    B1: Download work2vec of vietnamese(f) in https://github.com/Kyubyong/wordvectors
+    B2: Create a foler called vi_txt in your project, copy file vi.vec into it 
+    B1: Install library needed
+    B2: python3 text_sumary.py
